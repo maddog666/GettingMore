@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20sp"
+    android:background="@color/paleTurquoise"
+    android:orientation="vertical" >
+	<TextView 
+	    style="@style/Title.Medium.Bold"
+	    android:text="@string/activityButton1Label"
+	    />
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent"
+	    android:padding="15sp" 
+	    android:orientation="vertical">
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant1Text" />	        
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant2Text" />	        
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant3Text" />	        
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant4Text" />
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant5Text" />	    	        
+	</LinearLayout>
+
+</LinearLayout>

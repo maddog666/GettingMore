@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20dip"
+    android:background="@drawable/background_gradient"    
+    android:orientation="vertical" >
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dip"
+	    
+	    android:orientation="vertical" >
+    	<TextView
+       		style="@style/Title.Large"
+       		android:gravity="center"
+        	android:text="@string/title1" />
+        <!-- <TextView
+       		style="@style/Title.Medium"        	
+        	android:text="@string/title2" />
+        -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:textColor="@color/yellow"
+            android:text="@string/author"/>
+    </LinearLayout>
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dip"
+    android:orientation="vertical" >
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:text="@string/quadrantDiscriptionText"/>
+        <Button
+		    android:id="@+id/activity_button_1"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/activityButton1Label" />
+        <Button
+		    android:id="@+id/activity_button_2"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/activityButton2Label" />
+        <Button
+		    android:id="@+id/activity_button_3"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/activityButton3Label" />
+        <Button
+		    android:id="@+id/activity_button_4"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/activityButton4Label" />
+        <Button
+		    android:id="@+id/about_button"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/aboutButtonLabel" />
+        <Button
+		    android:id="@+id/exit_button"
+		    android:layout_height="wrap_content"
+		    android:layout_width="fill_parent"		
+		    android:text="@string/exitButtonLabel" />
+	</LinearLayout>
+
+</LinearLayout>

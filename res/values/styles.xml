@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Title" parent="@android:style/TextAppearance">
+	   <item name="android:layout_width">fill_parent</item>
+	   <item name="android:layout_height">wrap_content</item> 
+	   
+	   <item name="android:textColor">@color/black</item>
+	</style>
+	<style name="Title.Large">
+	   <item name="android:textSize">30sp</item>
+	</style>
+	
+	<style name="Title.Medium">
+	   <item name="android:textSize">20sp</item>	   
+	</style>
+	<style name="Title.Small">
+	   <item name="android:textSize">15sp</item>	   
+	</style>
+	<style name="Title.Medium.Bold">
+	    <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Title.Small.Bold">
+	    <item name="android:textStyle">bold</item>
+    </style>
+    
+	<style name="Text.Black" parent="@android:style/TextAppearance">
+	   <item name="android:layout_width">wrap_content</item>
+	   <item name="android:layout_height">wrap_content</item> 
+	   
+	   <item name="android:textColor">@color/black</item>
+	</style>
+	<style name="Text.Black.Large">
+	    <item name="android:textSize">25sp</item>
+	</style>
+	<style name="Text.Black.Medium">
+	    <item name="android:textSize">17sp</item>
+	</style>
+    <style name="Text.Black.Small">
+	    <item name="android:textSize">14sp</item>
+	</style>
+	<style name="Text.Black.Large.Bold">
+	    <item name="android:textStyle">bold</item>
+	</style>
+    <style name="Text.Black.Medium.Bold">
+	    <item name="android:textStyle">bold</item>
+	</style>
+	<style name="Text.Black.Small.Bold">
+	    <item name="android:textStyle">bold</item>
+	</style>
+</resources>

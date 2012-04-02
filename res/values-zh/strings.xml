@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GettingMoreActivity!</string>
+    <string name="app_name">GettingMore</string>
+	<string name="title1">Getting More</string>
+	<string name="title2">More</string>
+	<string name="author">史都華.戴蒙</string>
+	<string name="quadrantDiscriptionText">四象限談判模式</string>
+	<string name="webPage">更多資訊,請參考 www.gettingmore.com</string>
+	
+	<string name="aboutTitle">關於四象限談判模式</string>
+	<string name="aboutContent">這套模式是取自史都華.戴蒙教授的華頓商學院最受歡迎的談判課一書.尋求更多資訊,請參考 www.gettingmore.com</string>
+	    
+	<string name="activityButton1Label">第一象限-問題和目標</string>	
+	<string name="activityButton2Label">第二象限-分析情境</string>
+	<string name="activityButton3Label">第三象限-選項與降低風險</string>
+	<string name="activityButton4Label">第四象限-行動</string>
+	<string name="aboutButtonLabel">關於</string>
+	<string name="exitButtonLabel">離開</string>
+	
+	<string name="quadrant1TitleText">1.目標:</string>
+	<string name="quadrant2TitleText">2.問題:</string>
+	<string name="quadrant3TitleText">3.當事者:</string>
+	<string name="quadrant4TitleText">4.</string>
+	<string name="quadrant5TitleText">5.準備:</string>
+	<string name="quadrant6TitleText">6.雙方的需求和:</string>
+	<string name="quadrant7TitleText">7.知覺印象:</string>
+	<string name="quadrant8TitleText">8.溝通風格:</string>
+	<string name="quadrant9TitleText">9.標準:</string>
+	<string name="quadrant10TitleText">10.重新檢視目標:</string>
+	<string name="quadrant11TitleText">11.腦力激盪:</string>
+	<string name="quadrant12TitleText">12.:</string>
+	<string name="quadrant13TitleText">13.第三式:</string>
+	<string name="quadrant14TitleText">14.:</string>
+	<string name="quadrant15TitleText">15.:</string>
+	<string name="quadrant16TitleText">16.最佳選項或優先要務:</string>
+	<string name="quadrant17TitleText">17.Who presents:</string>
+	<string name="quadrant18TitleText">18.流程:</string>
+	<string name="quadrant19TitleText">19.承諾和誘因:</string>
+	<string name="quadrant20TitleText">20.下一步:</string>    
+	    
+	<string name="quadrant1Text"><b>1.目標:</b>短期目標,長期目標.</string>
+	<string name="quadrant2Text"><b>2.問題:</b>為了達成目標,會遭遇到哪些問題.</string>
+	<string name="quadrant3Text"><b>3.當事者:</b>列出決策人士,對方,第三者.</string>
+	<string name="quadrant4Text"><b>4.</b>萬一無法達成協議?最糟的情況為何?</string>
+	<string name="quadrant5Text"><b>5.準備:</b>時間,相對準備,誰擁有較多資訊?</string>
+	<string name="quadrant6Text"><b>6.雙方的需求和:</b>理性的,情感的,共同的,有衝突的,評價不相等的需求和利益.</string>
+	<string name="quadrant7Text"><b>7.知覺印象:</b>各方腦中的想法為何?進行角色戶換練習.考慮文化,衝突,信任.</string>
+	<string name="quadrant8Text"><b>8.溝通風格:</b>雙方關係的特性是什麼?</string>
+	<string name="quadrant9Text"><b>9.標準:</b>對方的標準,相關的規範.</string>
+	<string name="quadrant10Text"><b>10.重新檢視目標:</b>雙方為止說是,為何說否?</string>
+	<string name="quadrant11Text"><b>11.腦力激盪:</b>發想出達成目標及滿足需求的選項.該交換或串聯什麼?</string>
+	<string name="quadrant12Text"><b>12.</b>以循序漸進的步驟,降低風險.</string>
+	<string name="quadrant13Text"><b>13.第三式:</b>找出共同敵人,有影響力的人.</string>
+	<string name="quadrant14Text"><b>14.</b>以表述方式塑造遠景,規劃要問的問題.</string>
+	<string name="quadrant15Text"><b>15.</b>必要時,找出替代方案.</string>
+	<string name="quadrant16Text"><b>16.最佳選項或優先要務:</b>破壞交易的因素,洩漏.</string>
+	<string name="quadrant17Text"><b>17.</b>談判的代表是誰,如何談,對象是誰?</string>
+	<string name="quadrant18Text"><b>18.流程:</b>議程,期限,時間管理.</string>
+	<string name="quadrant19Text"><b>19.承諾和誘因:</b>尤其是對對方來說.</string>
+	<string name="quadrant20Text"><b>20.下一步:</b>各自該做什麼?</string>
+</resources>

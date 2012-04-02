@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GettingMoreActivity!</string>
+    <string name="app_name">GettingMore</string>
+	<string name="title1">Getting More</string>
+	<string name="title2">More</string>
+	<string name="author">Stuart Diamond</string>
+	<string name="quadrantDiscriptionText">Getting More Four Quadrant Negotiation Model</string>
+	<string name="webPage">For more information, visit www.gettingmore.com</string>
+	
+	<string name="aboutTitle">About Getting More</string>
+	<string name="aboutContent">Getting More is based on Professor Diamond’s award-winning negotiations course at the Wharton Business School, where it has been the most sought-after course by students for thirteen years. It contains a powerful tool kit that can be used by anyone in any situation: with kids and jobs, travel and shopping, business, politics, relationships, cultures, partners and competitors. For more information, visit www.gettingmore.com</string>
+	    
+	<string name="activityButton1Label">Quadrant I-Problems and Goals</string>	
+	<string name="activityButton2Label">Quadrant II-Situation Analysis</string>
+	<string name="activityButton3Label">Quadrant III-Options/Risk Reduction</string>
+	<string name="activityButton4Label">Quadrant IV-Actions</string>
+	<string name="aboutButtonLabel">About</string>
+	<string name="exitButtonLabel">Exit</string>
+	
+	<string name="quadrant1TitleText">1.Goals:</string>
+	<string name="quadrant2TitleText">2.Problem(s):</string>
+	<string name="quadrant3TitleText">3.Parties:</string>
+	<string name="quadrant4TitleText">4.What if No Deal?</string>
+	<string name="quadrant5TitleText">5.Preparation:</string>
+	<string name="quadrant6TitleText">6.Needs/Interests:</string>
+	<string name="quadrant7TitleText">7.Perceptions:</string>
+	<string name="quadrant8TitleText">8.Communication:</string>
+	<string name="quadrant9TitleText">9.Standards:</string>
+	<string name="quadrant10TitleText">10.Re-examineGoals:</string>
+	<string name="quadrant11TitleText">11.Brainstorm:</string>
+	<string name="quadrant12TitleText">12.Incremental:</string>
+	<string name="quadrant13TitleText">13.3rd parties:</string>
+	<string name="quadrant14TitleText">14.Framing:</string>
+	<string name="quadrant15TitleText">15.Alternatives:</string>
+	<string name="quadrant16TitleText">16.Best options/priorities:</string>
+	<string name="quadrant17TitleText">17.Who presents:</string>
+	<string name="quadrant18TitleText">18.Process:</string>
+	<string name="quadrant19TitleText">19.Commitments/incentives:</string>
+	<string name="quadrant20TitleText">20.Next steps:</string>    
+	    
+	<string name="quadrant1Text"><b>1.Goal:</b>Short/long term.</string>
+	<string name="quadrant2Text"><b>2.Problem(s):</b>In reaching goals.</string>
+	<string name="quadrant3Text"><b>3.Parties:</b>Decision-maker. 3rd parties.</string>
+	<string name="quadrant4Text"><b>4.What if No Deal?</b>Worst case?</string>
+	<string name="quadrant5Text"><b>5.Preparation:</b>Time. Who has more info?</string>
+	<string name="quadrant6Text"><b>6.Needs/Interests:</b>Rational, emotional, shared, conflicting, unequally valued</string>
+	<string name="quadrant7Text"><b>7.Perceptions:</b>Pix in the head of each party. Role reversal, culture, conflicts, trust.</string>
+	<string name="quadrant8Text"><b>8.Communication:</b>Style, relationship?</string>
+	<string name="quadrant9Text"><b>9.Standards:</b>Theirs, norms.</string>
+	<string name="quadrant10Text"><b>10.Re-examineGoals:</b>Still realistic?</string>
+	<string name="quadrant11Text"><b>11.Brainstorm:</b>Options to meet goals, needs. What to trade or link?</string>
+	<string name="quadrant12Text"><b>12.Incremental:</b>Steps to reduce risk.</string>
+	<string name="quadrant13Text"><b>13.3rd parties:</b>Common enemies, influencers.</string>
+	<string name="quadrant14Text"><b>14.Framing:</b>Create a vision, develop questions.</string>
+	<string name="quadrant15Text"><b>15.Alternatives:</b>To improve/affect deal. if necessary.</string>
+	<string name="quadrant16Text"><b>16.Best options/priorities:</b>Dealbreakers. Giveaways.</string>
+	<string name="quadrant17Text"><b>17.Who presents:</b>How and to whom?</string>
+	<string name="quadrant18Text"><b>18.Process:</b>Agenda, deadlines, time mgmt.</string>
+	<string name="quadrant19Text"><b>19.Commitments/incentives:</b>Especially for them.</string>
+	<string name="quadrant20Text"><b>20.Next steps:</b>Who does what?</string>
+</resources>

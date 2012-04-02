@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20sp"
+    android:background="@color/khaki1"
+    android:orientation="vertical" >
+	<TextView 
+	    style="@style/Title.Medium.Bold"
+	    android:text="@string/activityButton2Label"
+	    />
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent"
+	    android:padding="15sp" 
+	    android:orientation="vertical">       
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant6Text" />	        
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant7Text" />	        
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant8Text" />
+        <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant9Text" />	 
+            <TextView	        
+            style="@style/Text.Black.Medium"
+            android:text="@string/quadrant10Text" />	 	        
+	</LinearLayout>
+</LinearLayout>
